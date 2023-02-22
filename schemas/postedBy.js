@@ -4,3 +4,4 @@ export default{
     type:'reference',
     to:[{type:'user'}]
 }
+ /* the type*/
