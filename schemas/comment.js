@@ -14,7 +14,7 @@ export default{
             type:'string'
 
         },
-        /* the type*/
+        
     ]
 
 }
